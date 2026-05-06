@@ -1,11 +1,3 @@
----
-nextwork_uuid: eeeabe80-d81b-4d19-931c-d17f6dacac2a
-original_filename: legendary-eeeabe80-d81b-4d19-931c-d17f6dacac2a.md
-migrated_to: governance-systems-engineering/togaf-cloud-migration.md
-migrated_at: 2026-05-04
-schema: nextwork-generator
----
-
 <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Architect a Cloud Migration with TOGAF
