@@ -4,7 +4,6 @@ This portfolio repository was built from NextWork projects, created via NextWork
 
 **Original NextWork projects:**
 
-- Cryptographic Supply Chain Tracker
 - Architect a Cloud Migration with TOGAF
 
 ## About NextWork
