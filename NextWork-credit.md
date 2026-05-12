@@ -4,6 +4,7 @@ This portfolio repository was built from NextWork projects, created via NextWork
 
 **Original NextWork projects:**
 
+- Govern Parallel AI Agents for SCADA
 - Architect a Cloud Migration with TOGAF
 
 ## About NextWork

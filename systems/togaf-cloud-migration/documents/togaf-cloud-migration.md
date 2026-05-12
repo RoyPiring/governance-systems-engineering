@@ -69,7 +69,7 @@ Reducing cost, increasing availability, and enabling new services provide a clea
 
 ## Modeling the Baseline Business Architecture (Phase B)
 
-### ArchiMate business layer — current state
+### ArchiMate business layer, current state
 
 The baseline model captures how GreenLeaf operates today.
 
@@ -85,7 +85,7 @@ This lack of integration limits visibility and prevents efficient decision-makin
 
 ## Modeling the Target Technology Architecture and Analyzing Gaps (Phase D)
 
-### ArchiMate technology layer — future state
+### ArchiMate technology layer, future state
 
 The target architecture defines a centralized, cloud-based system.
 
