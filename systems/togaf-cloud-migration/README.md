@@ -4,9 +4,9 @@
 
 ## Overview
 
--T-h-i-s- -p-r-o-j-e-c-t- -d-e-f-i-n-e-s- -a- -c-l-o-u-d- -m-i-g-r-a-t-i-o-n- -s-t-r-a-t-e-g-y- -u-s-i-n-g- -t-h-e- -T-O-G-A-F- -A-D-M- -f-r-a-m-e-w-o-r-k- -f-o-r- -G-r-e-e-n-L-e-a-f- -G-r-o-c-e-r-i-e-s-.---
----
--T-h-e- -g-o-a-l- -i-s- -t-o- -m-o-v-e- -f-r-o-m- -f-r-a-g-m-e-n-t-e-d- -o-n---p-r-e-m-i-s-e- -s-y-s-t-e-m-s- -t-o- -a- -s-t-r-u-c-t-u-r-e-d- -c-l-o-u-d- -a-r-c-h-i-t-e-c-t-u-r-e-,- -e-n-s-u-r-i-n-g- -t-h-e- -m-i-g-r-a-t-i-o-n- -i-s- -d-r-i-v-e-n- -b-y- -b-u-s-i-n-e-s-s- -o-u-t-c-o-m-e-s-,- -n-o-t- -j-u-s-t- -i-n-f-r-a-s-t-r-u-c-t-u-r-e- -c-h-a-n-g-e-s-.-
+This project defines a cloud migration strategy using the TOGAF ADM framework for GreenLeaf Groceries.
+
+The goal is to move from fragmented on-premise systems to a structured cloud architecture, ensuring the migration is driven by business outcomes, not just infrastructure changes.
 
 The architecture is built across **7 phases**, anchored by **The Mission: Architecting a Cloud Migration for GreenLeaf Groceries** on the input side and **💎 Secret Mission: Phase E Opportunities & Solutions Roadmap** at the end. Each phase is listed in the Implementation section below.
 
@@ -97,15 +97,13 @@ The diagram shows the topology and data flow of the system as built. The full ar
 
 This system is built across **7 phases**:
 
-1. **The Mission: Architecting a Cloud Migration for GreenLeaf Groceries**, -T-h-i-s- -p-r-o-j-e-c-t- -d-e-f-i-n-e-s- -a- -c-l-o-u-d- -m-i-g-r-a-t-i-o-n- -s-t-r-a-t-e-g-y- -u-s-i-n-g- -t-h-e- -T-O-G-A-F- -A-D-M- -f-r-a-m-e-w-o-r-k- -f-o-r- -G-r-e-e-n-L-e-a-f- -G-r-o-c-e-r-i-e-s-.---
----
--T-h.
+1. **The Mission: Architecting a Cloud Migration for GreenLeaf Groceries**, This project defines a cloud migration strategy using the TOGAF ADM framework for GreenLeaf Groceries.
 2. **Building the EA Workbench**
 3. **Defining Architecture Principles (Preliminary Phase)**
-4. **Crafting the Architecture Vision (Phase A)**, -.
+4. **Crafting the Architecture Vision (Phase A)**
 5. **Modeling the Baseline Business Architecture (Phase B)**
 6. **Modeling the Target Technology Architecture and Analyzing Gaps (Phase D)**
-7. **💎 Secret Mission: Phase E Opportunities & Solutions Roadmap**, -.
+7. **💎 Secret Mission: Phase E Opportunities & Solutions Roadmap**
 
 For the full walkthrough with screenshots and step-by-step content, see [`documents/togaf-cloud-migration.md`](./documents/togaf-cloud-migration.md).
 
