@@ -1,0 +1,44 @@
+lens: governance-systems-engineering
+featured_enabled: auto
+threshold: 1
+scored_at: '2026-05-18'
+human_pin: []
+systems:
+- slug: incose-vee-scada-agent-governance
+  axis_scores:
+    technical_depth: 9
+    voice: 8
+    validation: 8
+  axis_reasoning:
+    technical_depth: Six-phase INCOSE Vee with named gates (SRR, PDR, CDR, TRR, FCA-HOLD),
+      five parallel agent teams under an AGENTS.md charter, and a live OpenPLC/FUXA/Modbus
+      digital twin plus Suricata IDS bolt-on; diagram names every gate, datastore,
+      and edge.
+    voice: Direct and specific (e.g., 'The important architectural principle was containment'
+      and the FCA-HOLD justification on evidence completeness over premature closure);
+      no banned marketing verbs spotted.
+    validation: All six phases checked, 100 percent V&V pass across eleven scenarios,
+      residual risk named at SYS-008 and SYS-010, but evidence is referenced narratively
+      rather than linked per phase.
+  average: 8.3
+  rationale: INCOSE Vee with five gates, agent authority boundaries, and a live SCADA
+    twin plus Suricata IDS
+  featured: true
+- slug: togaf-cloud-migration
+  axis_scores:
+    technical_depth: 7
+    voice: 6
+    validation: 6
+  axis_reasoning:
+    technical_depth: Seven-phase TOGAF ADM walkthrough with three governance gates,
+      three ADRs, baseline-to-target ArchiMate models, and a C4 context diagram; topology
+      is procedural rather than operational.
+    voice: Plain and clean, no banned verbs, but several paragraphs lean on generic
+      glue sentences like 'This ensures communication and priorities are aligned'
+      that carry little information.
+    validation: Each phase checkmarked with screenshots referenced via image URLs,
+      but no quantitative outputs or test results; gap analysis is narrated, not measured.
+  average: 6.3
+  rationale: TOGAF ADM walkthrough with three governance gates, three ADRs, and baseline-to-target
+    ArchiMate models
+  featured: true
