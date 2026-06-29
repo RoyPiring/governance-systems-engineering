@@ -165,7 +165,7 @@ The Codex execution environment introduced additional operational friction aroun
 
 The biggest takeaway was understanding how AI agents can participate in systems engineering workflows without bypassing governance and verification requirements.
 
-The next area I want to improve is building larger reusable governance frameworks capable of directing AI agents across longer-running engineering programs and multi-phase infrastructure modernization efforts.
+The next area I want to advance is building larger reusable governance frameworks capable of directing AI agents across longer-running engineering programs and multi-phase infrastructure modernization efforts.
 
 ---
 
