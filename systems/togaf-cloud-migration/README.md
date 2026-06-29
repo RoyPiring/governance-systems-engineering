@@ -4,8 +4,12 @@
 
 ## Overview
 
-This project defines a cloud migration strategy using the TOGAF ADM framework for GreenLeaf Groceries.
-
+This project defines a cloud migration strategy using the TOGAF ADM framework for GreenLeaf Groceries.
+
+
+
+
+
 The goal is to move from fragmented on-premise systems to a structured cloud architecture, ensuring the migration is driven by business outcomes, not just infrastructure changes.
 
 The architecture is built across **7 phases**, anchored by **The Mission: Architecting a Cloud Migration for GreenLeaf Groceries** on the input side and **💎 Secret Mission: Phase E Opportunities & Solutions Roadmap** at the end. Each phase is listed in the Implementation section below.
@@ -82,9 +86,6 @@ flowchart TD
     PhaseB -.artifacts.-> Repo
     PhaseCD -.artifacts.-> Repo
     PhaseE -.artifacts.-> Repo
-class ADR1,ADR2,ADR3,Repo,C4,Roadmap datastore
-class Gate1,Gate2,Gate3 event
-
     class ADR1,ADR2,ADR3,Repo,C4,Roadmap datastore
     class Prelim,PhaseA,PhaseB,PhaseCD,PhaseE,PhaseF service
     class Gate1,Gate2,Gate3 event
@@ -109,7 +110,7 @@ For the full walkthrough with screenshots and step-by-step content, see [`docume
 
 ## Validation
 
-Build outcomes verified end-to-end. Each phase below is captured with screenshots, configuration, and observable behavior in [`documents/togaf-cloud-migration.md`](./documents/togaf-cloud-migration.md):
+Each build phase below is documented in [`documents/togaf-cloud-migration.md`](./documents/togaf-cloud-migration.md), with screenshots, configuration, and notes as captured during the build:
 
 - ✅ The Mission: Architecting a Cloud Migration for GreenLeaf Groceries
 - ✅ Building the EA Workbench

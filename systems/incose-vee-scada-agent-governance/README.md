@@ -103,7 +103,6 @@ flowchart LR
     ModbusAttacks -->|risk feedback into| TpmDash
     DigitalThread -->|sources executive evidence for| DirectorPkg
     DirectorPkg -->|recommends| GoNoGo
-
     class AgentsCharter,Doorstop,DigitalThread datastore
     class PrincipalSE,ReqTeam,ArchTeam,SimTeam,VVTeam,SecTeam,Capella,OpenPLC,FUXA,Wireshark,VVSuite,TpmDash,Suricata service
     class SrrGate,PdrGate,CdrGate,TrrGate,FcaGate,ModbusBus,GoNoGo event
@@ -127,7 +126,7 @@ For the full walkthrough with screenshots and step-by-step content, see [`docume
 
 ## Validation
 
-Build outcomes verified end-to-end. Each phase below is captured with screenshots, configuration, and observable behavior in [`documents/incose-vee-scada-agent-governance.md`](./documents/incose-vee-scada-agent-governance.md):
+Each build phase below is documented in [`documents/incose-vee-scada-agent-governance.md`](./documents/incose-vee-scada-agent-governance.md), with screenshots, configuration, and notes as captured during the build:
 
 - ✅ Governing a 90-Minute INCOSE Vee Sprint for Critical Infrastructure
 - ✅ Launching the Program: Environment Setup and Parallel Agent Orchestration
