@@ -1,6 +1,6 @@
 # Governance Systems Engineering
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-2-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--06--25-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-3-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--07--02-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
 
 > *What enterprise governance framework shapes the architecture?*
 
@@ -23,6 +23,7 @@ Architecture, security, and platform engineering shaped by named enterprise gove
 
 ## Featured Systems
 
+- **[Build an AI Governance Program](./systems/ai-governance-program/)**: Machine-readable governance binding principles to policies to an auditable release gate
 - **[Govern Parallel AI Agents for SCADA](./systems/incose-vee-scada-agent-governance/)**: INCOSE Vee with five gates, agent authority boundaries, and a live SCADA twin plus Suricata IDS
 - **[Architect a Cloud Migration with TOGAF](./systems/togaf-cloud-migration/)**: TOGAF ADM walkthrough with three governance gates, three ADRs, and baseline-to-target ArchiMate models
 

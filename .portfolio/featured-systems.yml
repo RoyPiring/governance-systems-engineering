@@ -1,9 +1,25 @@
 lens: governance-systems-engineering
 featured_enabled: auto
 threshold: 1
-scored_at: '2026-05-18'
+scored_at: '2026-07-02'
 human_pin: []
 systems:
+- slug: ai-governance-program
+  axis_scores:
+    technical_depth: 8
+    voice: 8
+    validation: 6
+  axis_reasoning:
+    technical_depth: Diagram names real artifacts and traces principles to policies
+      to a release gate and scored maturity feedback loop.
+    voice: Direct and concrete, names the documented-to-proven governance gap and
+      honest scorecard, no filler or banned verbs.
+    validation: Six phases documented with screenshots, but the scorecard admits no
+      live tracking, so evidence stays at documented not proven.
+  average: 7.33
+  rationale: Machine-readable governance binding principles to policies to an auditable
+    release gate
+  featured: true
 - slug: incose-vee-scada-agent-governance
   axis_scores:
     technical_depth: 9
