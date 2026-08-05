@@ -1,7 +1,7 @@
 lens: governance-systems-engineering
 featured_enabled: auto
 threshold: 1
-scored_at: '2026-07-02'
+scored_at: '2026-08-05'
 human_pin: []
 systems:
 - slug: ai-governance-program
@@ -19,6 +19,25 @@ systems:
   average: 7.33
   rationale: Machine-readable governance binding principles to policies to an auditable
     release gate
+  featured: true
+- slug: eu-ai-act-classification-register
+  axis_scores:
+    technical_depth: 9
+    voice: 8
+    validation: 8
+  axis_reasoning:
+    technical_depth: OSCAL component register of 25 systems, a deterministic Rego tiering
+      engine proven 24 of 24 against sealed ground truth, a gated rationale harness that
+      keeps the model off the critical path, and a version-controlled amendment diff.
+    voice: Direct and concrete, names the human_queue governance boundary, the graceful
+      degradation to CI-proven tiers, and the conformity gap stated plainly, no filler.
+    validation: 24 of 24 sealed classifications with zero disagreements, the ambiguous case
+      routed to human review, and the July 2026 re-tiering diff computed against the estate,
+      though obligations rest on the encoded rules rather than a live regulator.
+  average: 8.33
+  rationale: Deterministic EU AI Act tiering as policy-as-code, an OSCAL register scored
+    24 of 24 by a Rego engine, ambiguous cases routed to a human queue, and a board record
+    with a versioned amendment diff
   featured: true
 - slug: incose-vee-scada-agent-governance
   axis_scores:
