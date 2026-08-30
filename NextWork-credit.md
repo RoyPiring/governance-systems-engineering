@@ -4,6 +4,8 @@ This portfolio repository was built from NextWork projects, created via NextWork
 
 **Original NextWork projects:**
 
+- Build an AI Governance Program
+- EU AI Act Classification Register
 - Govern Parallel AI Agents for SCADA
 - Architect a Cloud Migration with TOGAF
 
